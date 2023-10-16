@@ -1,0 +1,6 @@
+# Add --help at the end of the command for a list of install options
+! curl -sSL https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/support/scripts/install | bash
+! ./phoneinfoga version
+! sudo mv ./phoneinfoga /usr/local/bin/phoneinfoga
+
+! phoneinfoga scan -n "+55 11 XXXXXXXXX"
